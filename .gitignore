@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# date si modele (mari, regenerabile)
+data/raw/
+models/*.pkl
